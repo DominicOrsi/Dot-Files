@@ -1,11 +1,23 @@
 # Ignore shpotify
 shpotify.cfg
 
+# Ignore docusourus
+configstore
+
+# Ignore .iterm2 files
+.iterm2_shell_integration.zsh
+.iterm2
+AppSupport
+sockets
+
 # temp files directories
 cache/
 log/
 *.swp
 .DS_Store
+.zsh_sessions
+.zcompdump*
+.zsh_history
 
 # editor configs
 .vscode

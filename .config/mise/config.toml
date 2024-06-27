@@ -1,0 +1,4 @@
+[tools]
+python = "3.12"
+java = "openjdk-21"
+node = "latest"
